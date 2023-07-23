@@ -1,17 +1,339 @@
 @media (max-width: 480px) {
   /* css start */
 
+  /* global css start */
+
+  .title h1 {
+    font-size: 28px;
+  }
+
+  /* ********************* */
+
+  /* navbar section start */
+  .header .navbar .navbar-nav {
+    margin: 40px 0 0 0;
+  }
+
+  .header .navbar .navbar-nav .nav-item .nav-link {
+    text-align: center;
+  }
+  /* navbar section end */
+
+  /* banner section start */
+  .banner .inner-banner {
+    padding: 40px 0 0;
+  }
+
+  .banner .inner-banner h1 {
+    font-size: 35px;
+  }
+
+  .banner .inner-banner .angle-down {
+    margin: 100px 0 0 0;
+  }
+  /* banner section end */
+
+  /* we-are section start */
+  .we-are {
+    padding: 80px 0 40px;
+  }
+
+  .we-are .we-are-text {
+    padding: 0 0 40px;
+  }
+
+  .we-are .we-are-img {
+    text-align: center;
+  }
+  /* we-are section end */
+
+  /* we-do section start */
+  .we-do {
+    padding: 80px 0 100px;
+  }
+
+  .we-do .card {
+    margin: 0 0 20px;
+  }
+
+  .we-do .card .card-img-overlay .card-title {
+    font-size: 16px;
+  }
+  /* we-do section end */
+
+  /* our-attorney section start */
+  .our-attorney {
+    padding: 80px 0;
+  }
+  .our-attorney .our-attorney-text .title {
+    margin: 0;
+  }
+
+  .our-attorney .card .card-img-overlay .card-title {
+    font-size: 12px;
+  }
+  /* our-attorney section end */
+
+  /* the-language section start */
+  .the-language {
+    padding: 80px 0 40px;
+  }
+  .the-language .language {
+    margin: 0 0 40px;
+  }
+  /* the-language section end */
+
+  /* contact section start */
+  .contact {
+    padding: 40px 0;
+  }
+
+  .contact .title {
+    padding: 0 0 40px;
+  }
+  /* contact section end */
+
+  /* footer section start */
+  .footer {
+    padding: 15px 0;
+  }
+  .footer .inner-footer ul {
+    float: none;
+    display: block;
+    text-align: center;
+    padding: 0 0 10px;
+  }
+
+  .footer .inner-footer p {
+    display: block;
+    text-align: center;
+  }
+  /* footer section end */
   /* css end */
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
   /* css start */
+  /* global css start */
 
+  .title h1 {
+    font-size: 30px;
+  }
+
+  /* ********************* */
+
+  /* navbar section start */
+  .header .navbar .navbar-nav {
+    margin: 40px 0 0 0;
+  }
+
+  .header .navbar .navbar-nav .nav-item .nav-link {
+    text-align: left;
+  }
+  /* navbar section end */
+
+  /* banner section start */
+  .banner .inner-banner {
+    padding: 40px 0 0;
+  }
+
+  .banner .inner-banner h1 {
+    font-size: 40px;
+  }
+
+  .banner .inner-banner .angle-down {
+    margin: 100px 0 0 0;
+  }
+  /* banner section end */
+
+  /* we-are section start */
+  .we-are {
+    padding: 80px 0 40px;
+  }
+
+  .we-are .we-are-text {
+    padding: 0 0 40px;
+  }
+  .we-are .we-are-img {
+    text-align: center;
+  }
+  /* we-are section end */
+
+  /* we-do section start */
+  .we-do {
+    padding: 80px 0 100px;
+  }
+
+  .we-do .card {
+    margin: 0 0 20px;
+  }
+
+  .we-do .card .card-img-overlay .card-title {
+    font-size: 20px;
+  }
+  /* we-do section end */
+
+  /* our-attorney section start */
+  .our-attorney {
+    padding: 80px 0;
+  }
+  .our-attorney .our-attorney-text .title {
+    margin: 0;
+  }
+
+  .our-attorney .card .card-img-overlay .card-title {
+    font-size: 16px;
+  }
+  /* our-attorney section end */
+
+  /* the-language section start */
+  .the-language {
+    padding: 80px 0 40px;
+  }
+  .the-language .language {
+    margin: 0 0 40px;
+  }
+  /* the-language section end */
+
+  /* contact section start */
+  .contact {
+    padding: 40px 0;
+  }
+
+  .contact .title {
+    padding: 0 0 40px;
+  }
+  /* contact section end */
+
+  /* footer section start */
+  .footer {
+    padding: 15px 0;
+  }
+  .footer .inner-footer ul {
+    float: none;
+    display: block;
+    text-align: center;
+    padding: 0 0 10px;
+  }
+
+  .footer .inner-footer p {
+    display: block;
+    text-align: center;
+  }
+  /* footer section end */
   /* css end */
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
   /* css start */
+  /* global css start */
 
+  .title h1 {
+    font-size: 30px;
+  }
+
+  /* ********************* */
+
+  /* navbar section start */
+  .header .navbar .navbar-nav {
+    margin: 40px 0 0 0;
+  }
+
+  .header .navbar .navbar-nav .nav-item .nav-link {
+    text-align: left;
+  }
+  /* navbar section end */
+
+  /* banner section start */
+  .banner .inner-banner {
+    padding: 40px 0 0;
+  }
+
+  .banner .inner-banner h1 {
+    font-size: 40px;
+  }
+
+  .banner .inner-banner .angle-down {
+    margin: 100px 0 0 0;
+  }
+  /* banner section end */
+
+  /* we-are section start */
+  .we-are {
+    padding: 80px 0 40px;
+  }
+
+  .we-are .we-are-text {
+    padding: 0 0 40px;
+  }
+  .we-are .we-are-img {
+    text-align: right;
+    margin: 80px 0;
+  }
+  /* we-are section end */
+
+  /* we-do section start */
+  .we-do {
+    padding: 80px 0 100px;
+  }
+
+  .we-do .card {
+    margin: 0 0 20px;
+  }
+
+  .we-do .card .card-img-overlay .card-title {
+    font-size: 20px;
+  }
+  /* we-do section end */
+
+  /* our-attorney section start */
+  .our-attorney {
+    padding: 80px 0;
+  }
+
+  .our-attorney .our-attorney-text .title {
+    margin: 0;
+  }
+
+  .our-attorney .card .card-img-overlay .card-title {
+    font-size: 18px;
+  }
+  /* our-attorney section end */
+
+  /* the-language section start */
+  .the-language {
+    padding: 80px 0 40px;
+  }
+  .the-language .language {
+    margin: 0 0 40px;
+  }
+  /* the-language section end */
+
+  /* contact section start */
+  .contact {
+    padding: 40px 0;
+  }
+
+  .contact .title {
+    padding: 0 0 40px;
+  }
+  /* contact section end */
+
+  /* footer section start */
+  .footer {
+    padding: 15px 0;
+  }
+  .footer .inner-footer ul {
+    float: none;
+    display: block;
+    text-align: center;
+    padding: 0 0 10px;
+  }
+
+  .footer .inner-footer p {
+    display: block;
+    text-align: center;
+  }
+  /* footer section end */
   /* css end */
 }

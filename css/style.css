@@ -169,6 +169,11 @@ a:hover {
   background-size: cover;
 }
 
+/* for responsive */
+.our-attorney .our-attorney-text {
+  margin: 0 0 20px;
+}
+
 .our-attorney .our-attorney-text .title {
   margin: 150px 0 0;
 }
@@ -303,7 +308,7 @@ a:hover {
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   font-size: 12px;
-  margin: 40px 0 10px 0;
+  margin: 40px auto;
 }
 
 .contact .btn-warning:hover {
